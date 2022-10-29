@@ -1,0 +1,24 @@
++-------------+--------------------------+----------------------------------+---------------------------------+
+| ID          | Username                 | Full Name                        | Email                           |
++-------------+--------------------------+----------------------------------+---------------------------------+
+| 17626594669 | dyl4n_hk                 | dylan hk                         | dylanhigginskiang@gmail.com     |
+| 304358009   | addisonraee              | Addison Rae                      | raebusinessinfo@gmail.com       |
+| 11762674406 | timas.beautystudio       | Eyebrows and PMU                 | timasbeautystudio@gmail.com     |
+| 7179240501  | gavbucket                | 1.🥷🏽                             | gavbucket24@gmail.com           |
+| 3429780675  | cchhl0e                  | Chloe                            | enkhhongor@yahoo.com            |
+| 7080988551  | darealshat               | Akshat                           | Malikdebnath@gmail.com          |
+| 8602179320  | ahssocialwelfare         | Alameda High Social Welfare Club | ahscityteam@gmail.com           |
+| 5921588647  | justriqq                 | Tariq                            | tariqgrant35@gmail.com          |
+| 3042136689  | g0aj_                    | Ajhuan Parker                   | therealajhuanparker@gmail.com   |
+| 5354499531  | joshrichards             | Josh Richards                    | chris@crosscheckstudios.com     |
+| 1950424228  | quintongriggs            | Quinton Griggs                   | quintongriggs@724management.com |
+| 494743165   | cl3o_s1gn0l              | Cleo                             | cleosignol1@gmail.com           |
+| 6838018594  | erolarpacii              |                                  | offblacked@gmail.com            |
+| 3291940954  | andi.renay               | Andi VanMeter                    | vanmeterandi@gmail.com          |
+| 39137059    | emilyfayemiller          | Emily Miller                     | emily@emilyfayemiller.co.uk     |
+| 48413823292 | girlsforbusiness.alameda | alameda high school chapter      | alamedahs@girlsforbusiness.org  |
+| 13093365    | emmaabrahamson           | Emma Abrahamson                  | emma@emmaabrahamson.com         |
+| 561897860   | camholmess               | Cam Holmes                       | jenny@84world.com               |
+| 9766004823  | ad_riel7                 | Adriel Duenas                    | adriel769@icloud.com            |
+| 174662198   | lexibrookerivera         | Lexi Rivera                      | alexabrookerivera@gmail.com     |
++-------------+--------------------------+----------------------------------+---------------------------------+
